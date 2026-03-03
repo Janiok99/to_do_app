@@ -1,10 +1,11 @@
 #To‑Do Manager
-    Prosta aplikacja konsolowa do zarządzania zadaniami. Umożliwia dodawanie, usuwanie i oznaczanie zadań jako wykonane, a wszystkie dane zapisuje w pliku tasks.json.
+    Prosta aplikacja konsolowa do zarządzania zadaniami. Umożliwia dodawanie, usuwanie i oznaczanie zadań jako wykonane lub niewykonane, a wszystkie dane zapisuje w pliku tasks.json.
 
 #Funkcjonalności
     - Dodawanie nowych zadań
     - Wyświetlanie listy zadań
     - Oznaczanie zadań jako wykonane
+    - Oznaczanie zadania jako niewykonane 
     - Usuwanie zadań
     - Automatyczny zapis do pliku tasks.json
     - Brak zewnętrznych zależności — działa na czystym Pythonie
