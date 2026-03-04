@@ -1,7 +1,7 @@
-#To‑Do Manager
+# To‑Do Manager
     Prosta aplikacja konsolowa do zarządzania zadaniami. Umożliwia dodawanie, usuwanie i oznaczanie zadań jako wykonane lub niewykonane, a wszystkie dane zapisuje w pliku tasks.json.
 
-#Funkcjonalności
+## Funkcjonalności
     - Dodawanie nowych zadań
     - Wyświetlanie listy zadań
     - Oznaczanie zadań jako wykonane
@@ -10,7 +10,7 @@
     - Automatyczny zapis do pliku tasks.json
     - Brak zewnętrznych zależności — działa na czystym Pythonie
 
-#Struktura projektu
+## Struktura projektu
 todo-app/
 │
 ├── src/
@@ -22,7 +22,7 @@ todo-app/
 │
 └── README.md
 
-#Jak uruchomić projekt
+## Jak uruchomić projekt
     1.Przejdź do folderu projektu: 
         cd todo-app
     2. Uruchom aplikację:
@@ -36,11 +36,11 @@ todo-app/
         5. Usuń zadanie
         6. Wyjście
 
-#Wymagania
+## Wymagania
     Projekt nie wymaga żadnych dodatkowych bibliotek.
     Działa na standardowej instalacji Python 3.8+.
 
-#Jak działa zapis danych?
+## Jak działa zapis danych?
     Aplikacja przechowuje zadania w pliku tasks.json w formacie:
         [
             {
