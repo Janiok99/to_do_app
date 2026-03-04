@@ -11,16 +11,16 @@
     - Brak zewnętrznych zależności — działa na czystym Pythonie
 
 ## Struktura projektu
-todo-app/
-│
-├── src/
-│     ├── storage.py      # obsługa pliku JSON
-│     ├── todo.py         # logika aplikacji
-│     └── main.py         # menu i interakcja z użytkownikiem
-│
-├── tasks.json            # plik z zadaniami (tworzy się automatycznie)
-│
-└── README.md
+    todo-app/
+    │
+    ├── src/
+    │     ├── storage.py      # obsługa pliku JSON
+    │     ├── todo.py         # logika aplikacji
+    │     └── main.py         # menu i interakcja z użytkownikiem
+    │
+    ├── tasks.json            # plik z zadaniami (tworzy się automatycznie)
+    │
+    └── README.md
 
 ## Jak uruchomić projekt
     1.Przejdź do folderu projektu: 
